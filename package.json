@@ -1,0 +1,27 @@
+{
+  "name": "18pluslimited",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A modern Gatsby + Tailwind rebuild of the 18Plus Support website.",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.9",
+    "autoprefixer": "^10.4.20",
+    "gatsby": "^5.14.0",
+    "gatsby-plugin-postcss": "^6.14.0",
+    "postcss": "^8.4.49",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

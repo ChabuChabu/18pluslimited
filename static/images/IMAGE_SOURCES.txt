@@ -1,0 +1,40 @@
+18PlusLimited replacement image pack
+
+Place these files into your Gatsby project folder:
+static/images/
+
+Files included:
+- home-hero.jpg
+  Source: Pexels / Kampus Production
+  Page: https://www.pexels.com/photo/a-group-of-people-smiling-together-while-sitting-near-the-table-7551617/
+
+- home-community.jpg
+  Source: Pexels / Nam Phong Bui
+  Page: https://www.pexels.com/photo/man-pushing-a-woman-sitting-on-wheelchair-3101214/
+
+- about-care.jpg
+  Source: Pexels / Jsme MILA
+  Page: https://www.pexels.com/photo/elderly-care-interaction-in-cozy-kitchen-setting-29372709/
+
+- services-hero.jpg
+  Source: Pexels / Kampus Production
+  Page: https://www.pexels.com/photo/a-woman-teaching-an-elderly-man-doing-an-exercise-7551608/
+
+- dietary-care.jpg
+  Source: Pexels / Jsme MILA
+  Page: https://www.pexels.com/photo/caregiver-serving-food-for-elderly-people-in-retirement-house-18459203/
+
+- healthcare.jpg
+  Source: Pexels / Kampus Production
+  Page: https://www.pexels.com/search/caregiver/  (photo id 7551668)
+
+- rehabilitation.jpg
+  Source: Pexels / Kampus Production
+  Page: https://www.pexels.com/photo/a-woman-teaching-an-elderly-man-doing-an-exercise-7551608/  (related photo id 7551631)
+
+- daily-living.jpg
+  Source: Pexels / Jsme MILA
+  Page: https://www.pexels.com/photo/elderly-care-interaction-in-cozy-kitchen-setting-29372709/  (related photo id 29372536)
+
+License note:
+Pexels images can generally be downloaded and used under the Pexels Content License for commercial and non-commercial purposes. Attribution is not required but is appreciated. Review the current Pexels Terms/License before publishing.
