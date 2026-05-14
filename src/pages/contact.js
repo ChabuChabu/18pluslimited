@@ -3,6 +3,7 @@ import Layout from "../components/Layout";
 import SEO from "../components/SEO";
 import PageHero from "../components/PageHero";
 import ContactCard from "../components/ContactCard";
+import GoogleMapNoKey from "../components/GoogleMapNoKey";
 import { contact } from "../data/site";
 
 const ContactPage = () => {
@@ -100,11 +101,7 @@ const ContactPage = () => {
 
       <section className="bg-slate-100">
         <div className="container-page py-10">
-          <img
-            src="/images/map-wickford.jpg"
-            alt="Map showing the Wickford and Basildon area"
-            className="h-80 w-full rounded-[2rem] object-cover shadow-soft"
-          />
+          <GoogleMapNoKey title="Map showing 18Plus Support in Wickford" />
         </div>
       </section>
     </Layout>

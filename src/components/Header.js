@@ -24,12 +24,16 @@ const Header = () => {
 
   return (
     <header className="sticky top-0 z-50 border-b border-white/60 bg-brand-100/95 shadow-sm backdrop-blur-xl">
-      <div className="container-page flex min-h-20 items-center justify-between gap-4 py-3">
-        <Link to="/" className="flex items-center gap-3" aria-label="18Plus Support home">
+      <div className="container-page flex min-h-[4.5rem] items-center justify-between gap-3 py-2.5 sm:min-h-20 sm:gap-4 sm:py-3 lg:min-h-24">
+        <Link
+          to="/"
+          className="flex min-w-0 shrink-0 items-center gap-2.5 sm:gap-3"
+          aria-label="18Plus Support home"
+        >
           <img
             src="/images/logo.png"
             alt="18Plus Support logo"
-            className="h-14 w-auto rounded-xl object-contain sm:h-16"
+            className="h-16 w-auto shrink-0 rounded-xl object-contain shadow-sm ring-1 ring-black/[0.06] sm:h-20 lg:h-24"
           />
           <span className="sr-only">18Plus Support</span>
         </Link>

@@ -52,4 +52,13 @@
   .card {
     @apply rounded-3xl border border-slate-200 bg-white shadow-soft;
   }
+
+  /* Google Maps iframe embed — consistent sizing, no inline-frame gap */
+  .map-embed {
+    @apply w-full max-w-full;
+  }
+
+  .map-embed__iframe {
+    @apply align-top;
+  }
 }
