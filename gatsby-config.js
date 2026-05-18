@@ -4,8 +4,8 @@ module.exports = {
     title: `18Plus Support`,
     description: `Premier provider of domiciliary care, supported living and cleaning services in Essex, Kent and the South East.`,
     siteUrl: `https://18pluslimited.co.uk`,
-    contactEmail: `vivian.jere@18pluslimited.co.uk`,
-    phone: `+447887503133`,
+    contactEmail: `admin@18pluslimited.co.uk`,
+    phone: `03330494050`,
     address: `28 Woodberry Road, Wickford, England, SS11 8XG`
   },
   plugins: [

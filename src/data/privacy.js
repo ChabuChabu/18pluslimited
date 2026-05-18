@@ -4,7 +4,7 @@ export const privacySections = [
     body: [
       "As part of the services we offer, we are required to process personal data about our staff, our service users and, in some instances, the friends or relatives of our service users and staff. “Processing” can mean collecting, recording, organising, storing, sharing or destroying data.",
       "We are committed to being transparent about why we need your personal data and what we do with it. This information is set out in this privacy notice. It also explains your rights when it comes to your data.",
-      "If you have any concerns or questions please contact us: admin@18pluslimited.co.uk or telephone 03330495020."
+      "If you have any concerns or questions please contact us: admin@18pluslimited.co.uk or telephone 03330494050."
     ]
   },
   {

@@ -58,24 +58,6 @@ const ServicesPage = () => (
       </div>
     </section>
 
-    <section className="bg-white py-16">
-      <div className="container-page text-center">
-        <p className="text-3xl font-black text-brand-900">Follow Us</p>
-        <div className="mt-8 flex justify-center gap-4">
-          {["f", "x", "▶", "◎"].map((item) => (
-            <a
-              key={item}
-              href="https://www.facebook.com"
-              className="flex h-12 w-12 items-center justify-center rounded-full bg-slate-100 text-lg font-black text-slate-600 hover:bg-brand-100 hover:text-brand-900"
-              aria-label="Social media link"
-            >
-              {item}
-            </a>
-          ))}
-        </div>
-      </div>
-    </section>
-
     <CTA />
   </Layout>
 );

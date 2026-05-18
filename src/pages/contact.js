@@ -38,22 +38,6 @@ const ContactPage = () => {
                 {contact.phone}
               </a>
             </ContactCard>
-
-            <div className="rounded-3xl bg-brand-50 p-6">
-              <h2 className="text-2xl font-black text-brand-950">Follow Us</h2>
-              <div className="mt-5 flex gap-3">
-                {["f", "x", "▶", "◎"].map((item) => (
-                  <a
-                    key={item}
-                    href="https://www.facebook.com"
-                    className="flex h-11 w-11 items-center justify-center rounded-full bg-white text-lg font-black text-brand-700 shadow-sm hover:bg-brand-900 hover:text-white"
-                    aria-label="Social media link"
-                  >
-                    {item}
-                  </a>
-                ))}
-              </div>
-            </div>
           </aside>
 
           <div className="card p-6 sm:p-8">

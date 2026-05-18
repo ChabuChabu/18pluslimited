@@ -2,9 +2,8 @@ export const contact = {
   company: "18Plus Support",
   address: "28 Woodberry Road, Wickford, England, SS11 8XG",
   contactAddress: "28 Woodberry Road, Wickford, England, SS11 8XG, Basildon SS15 5HB",
-  phone: "+447887503133",
-  email: "vivian.jere@18pluslimited.co.uk",
-  adminEmail: "admin@18pluslimited.co.uk",
+  phone: "03330494050",
+  email: "admin@18pluslimited.co.uk",
   cqc: "CQC Regulated"
 };
 
@@ -33,6 +32,7 @@ export const serviceList = [
   "Day/evening /evening/night sitting services, as required.",
   "Healthcare – assisting the service user to take prescribed medication.",
   "Dietary Care: i.e., preparation of snacks and meals according to the service user’s likes / dislikes and assisting with feeding, as required.",
+  "Accompanying service users into the community and for medical appointments.",
   "Domestic / Household services"
 ];
 
